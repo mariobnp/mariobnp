@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Mario 👋
 
-<!--
-**mariobnp/mariobnp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an Informatics Engineering student passionate about **Web Development**.  
+Currently learning **HTML, CSS, JavaScript, and PHP**, and exploring modern frameworks.
 
-Here are some ideas to get you started:
+## Projects
+- [Simple Portfolio Website](https://github.com/username/simple-portfolio)  
+- [Company Profile Website](https://github.com/username/company-profile)  
+- [Landing Page for Corelytics](https://github.com/username/corelytics-landing)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+- HTML | CSS | JavaScript
+- PHP | MySQL
+- Tailwind CSS (learning)
+- Git & GitHub
+
+## About Me
+- 🎓 Informatics Engineering Student @ Universitas Mercu Buana Yogyakarta  
+- 🌱 Currently focusing on **Front-End Web Development**  
+- 🚀 Exploring **Python** for future Data Analytics projects  
+
+---
